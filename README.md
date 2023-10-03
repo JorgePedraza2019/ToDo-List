@@ -7,7 +7,7 @@ This project allows to show a ToDo List where you it has 3 default items and it 
 To run the project locally, follow the next steps:
 1. Download the project.
 2. Open the project with your IDE, for example: Visual Studio Code.
-3. Install the HTTP library using the following command in your IDE terminal (npm install --global http-server).
+3. Install the HTTP static library using the following command in your IDE terminal (npm install --global http-server).
 4. To run the project use the following command (http-server -c-1)
 5. To open the project open the following URL with an explorer: localhost:8080.
 
