@@ -34,7 +34,7 @@ function Todo({ todo, index, remove }) {
           }}
           onClick={handle}
           >
-          <img src='/public/static/trash.svg' />
+          <img src='./public/static/trash.svg' />
         </div>
       </div>
     </>
